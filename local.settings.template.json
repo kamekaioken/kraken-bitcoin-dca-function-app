@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "TIMER_SCHEDULE": "0 8 6 * * *",
+        "KRAKEN_API_KEY": "<your-kraken-api-key>",
+        "KRAKEN_PRIVATE_KEY": "<your-kraken-private-key>",
+        "BITCOIN_AMOUNT": "0.0001",
+        "PRICE_THRESHOLD": "90000",
+        "PAYMENT_CURRENCY": "EUR"
+    }
+}
