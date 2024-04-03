@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "BitcoinDcaApp": {
+    "KrakenBitcoinDcaApp": {
       "commandName": "Project",
       "commandLineArgs": "--port 7090",
       "launchBrowser": false
